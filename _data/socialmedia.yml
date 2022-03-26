@@ -1,27 +1,22 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/GIOVANNAPPS
   class: icon-github
-  title: Code und mehr...
-
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: Codigo y más ...
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/jvrenaca
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "También estamos en Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+- name: Instagram
+  url: https://www.instagram.com/jvrenaca/
+  class: icon-instagram
+  title: También nos encuentras en IG
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+- name: Facebook
+  url: http://www.facebook.com/juntadevecinosrenaca
+  class: icon-facebook
+  title: ""
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
