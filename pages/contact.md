@@ -1,7 +1,10 @@
 ---
-layout: page
-title: Contact
-permalink: /contact
+layout              : page
+title               : "Contactenos"
+meta_title          : "Datos de contacto"
+subheadline         : "Datos de contacto"
+teaser              : 
+permalink           : "/contact/"
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+Escribenos por [Twitter](http://twitter.com/jvrenaca), [Instagram](https://www.instagram.com/jvrenaca/), [Facebook](https://www.facebook.com/juntadevecinosrenaca) o por [Correo](mailto:jjvv@renacacosta.org)!

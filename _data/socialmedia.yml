@@ -1,0 +1,39 @@
+- name: GitHub
+  url: http://github.com/GIOVANNAPPS
+  class: icon-github
+  title: Codigo y más ...
+
+- name: Twitter
+  url: http://twitter.com/jvrenaca
+  class: icon-twitter
+  title: "También estamos en Twitter"
+
+- name: Instagram
+  url: https://www.instagram.com/jvrenaca/
+  class: icon-instagram
+  title: También nos encuentras en IG
+
+- name: Facebook
+  url: http://www.facebook.com/juntadevecinosrenaca
+  class: icon-facebook
+  title: ""
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil

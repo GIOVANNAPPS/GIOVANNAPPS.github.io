@@ -1,0 +1,32 @@
+- title: Inicio
+  url: "/"
+  side: left
+
+- title: NOSOTROS
+  url: "/ubicacion/"
+  side: left
+  dropdown:
+  - title: NUESTRA ZONA
+    url: /ubicacion/
+  - title: CONTACTENOS
+    url: /contact/
+
+- title: NOTICIAS
+  url: "/noticias/"
+  side: left
+
+- title: COMISIONES
+  url: "/comisiones/"
+  side: left
+
+- title: BOLSA DE TRABAJO
+  url: "/bolsadetrabajo/"
+  side: left
+
+- title: CERTIFICADOS
+  url: "/certificados/"
+  side: left
+
+- title: "Busca"
+  url: "/search/"
+  side: right
