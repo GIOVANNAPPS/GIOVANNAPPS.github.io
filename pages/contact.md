@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Contact
-permalink: /contact
+layout              : page
+title               : "Contact"
+meta_title          : "Contact and use our contact form"
+subheadline         : "Contact Form"
+teaser              : "Get in touch with me? Use the contact form."
+permalink           : "/contact/"
 ---
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
