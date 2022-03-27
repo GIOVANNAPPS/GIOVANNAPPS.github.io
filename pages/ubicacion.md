@@ -9,4 +9,4 @@ permalink           : "/ubicacion/"
 
 ![Mapa de nuestra zona](/images/mapa.png)
 
-hola
+Hola
