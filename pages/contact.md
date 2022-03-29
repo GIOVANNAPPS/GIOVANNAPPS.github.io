@@ -7,4 +7,11 @@ teaser              :
 permalink           : "/contact/"
 ---
 
-Escribenos por [Twitter](http://twitter.com/jvrenaca), [Instagram](https://www.instagram.com/jvrenaca/), [Facebook](https://www.facebook.com/juntadevecinosrenaca) o por [Correo](mailto:jjvv@renacacosta.org)!
+Escribenos por
+
+<div style="font-size:2em">
+<a href="http://twitter.com/jvrenaca"><i class="icon-twitter" style="color:#1DA1F2"></i> Twitter</a><br>
+<a href="https://www.instagram.com/jvrenaca"><i class="icon-instagram" style="color:#F21DA1"></i> Instagram</a><br>
+<a href="https://www.facebook.com/juntadevecinosrenaca"><i class="icon-facebook" style="color:#4267B2"></i> Facebook</a><br>
+<a href="mailto:jjvv@renacacosta.org"><i class="icon-paper-plane" style="color:#AAA"></i> Correo</a>
+</div>
